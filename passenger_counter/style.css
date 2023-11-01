@@ -1,0 +1,26 @@
+h2{
+    font-size:50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    align-items: center;  
+    align-content: center; 
+}
+
+button {
+    border: 1px;
+    width: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    stroke-width: 2px;
+    color:aliceblue;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn{
+    background-color: darkred;
+}
+
+#save-btn{
+    background-color: blue;
+}
